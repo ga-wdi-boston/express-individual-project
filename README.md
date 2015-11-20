@@ -44,7 +44,6 @@ Your app must:
 Eager to get moving? Here are some good resources that you might want to refer back to.
 
 * **[Express JS](http://expressjs.com/)**
-* **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[MongoDB](https://www.mongodb.org/)**
 * **[Getting Starts with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
 
@@ -53,7 +52,6 @@ Some other suggestions and best practices:
 * **Don’t hesitate to write throwaway code** to solve short term problems.
 * **Read the docs for whatever technologies / frameworks / API’s you use**.
 * **Write your code DRY** and **build your APIs RESTful**.
-* **Be consistent with your code style.** You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
 * **Keep user stories small and well-defined**, and remember – user stories focus on what a user needs, not what development tasks need accomplishing.
 * **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is?
@@ -99,7 +97,7 @@ Below are specifics on each category, along with examples of what `0`, `1`, or `
 
 ### __Planning__
 
-Did you create user stories, wireframes, and an ERD before you started writing code? Did you create (and follow) a schedule for your team to keep the project on track?
+Did you create user stories, wireframes, and an ERD before you started writing code? Did you create (and follow) a schedule to keep the project on track?
 
 | Score | Description |
 |:-----:|:------------|
@@ -109,7 +107,7 @@ Did you create user stories, wireframes, and an ERD before you started writing c
 
 ### __Source Control__
 
-Did your team use source control effectively to manage everyones' contributions and keep track of changes?
+Did your you use source control effectively to manage your code and keep track of changes?
 
 | Score | Description |
 |:-----:|:------------|
